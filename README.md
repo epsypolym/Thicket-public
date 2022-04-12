@@ -1,6 +1,6 @@
-Thicket - an unofficial Level Loader for Ultrakill
+Thicket - an unofficial Level Loader for Ultrakill (now possibly outdated)
 
-written in the span of like a week or two for fun
+written for fun!
 
 feature set: it loads levels (amazing i know)
 
@@ -14,4 +14,4 @@ how it works:
 
 
 Cool Disclaimer:
-- thicket works now but it's slightly brokey
+- thicket worked at the time of writing, it may not be working due to changes to the Ultrakill game itself and might need repairs by anyone who may want to use it.
